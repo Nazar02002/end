@@ -47,14 +47,6 @@ header {
 .face:hover {
     right:0;
 }
-.ipads {
-    display: flex;
-    justify-content: space-between;
-}
-.macbooks {
-    display: flex;
-    justify-content: space-between;
-}
 footer {
     background-color:orange;
 }
